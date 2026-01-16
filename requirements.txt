@@ -1,0 +1,55 @@
+# Core ML and NLP libraries
+torch>=2.0.0
+transformers>=4.30.0
+tokenizers>=0.13.0
+datasets>=2.12.0
+
+# Language detection and translation
+langdetect>=1.0.9
+deep-translator>=1.11.4
+# googletrans==4.0.0rc1  # Commented out due to dependency conflicts
+# polyglot>=16.7.4  # Commented out due to installation complexity
+
+# Web framework and API
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+streamlit>=1.25.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# File handling and utilities
+python-multipart>=0.0.6
+aiofiles>=23.0.0
+openpyxl>=3.1.0
+
+# Visualization and plotting
+plotly>=5.15.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Caching and performance
+redis>=4.6.0
+joblib>=1.3.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+httpx>=0.13.3,<0.25.0
+
+# Development tools
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.4.0
+
+# Logging and monitoring
+loguru>=0.7.0
+prometheus-client>=0.17.0
+
+# Configuration
+python-dotenv>=1.0.0
+pyyaml>=6.0

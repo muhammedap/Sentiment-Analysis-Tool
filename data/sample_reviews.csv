@@ -1,0 +1,31 @@
+text,language,expected_sentiment
+"I absolutely love this product! It exceeded all my expectations.",en,positive
+"This is the worst purchase I've ever made. Complete waste of money.",en,negative
+"The product is okay. Nothing special but it works.",en,neutral
+"¡Me encanta este producto! Es increíble y la calidad es excelente.",es,positive
+"Este producto es terrible. No lo recomiendo para nada.",es,negative
+"El producto está bien. Cumple con lo que promete.",es,neutral
+"J'adore ce produit! Il est fantastique et très bien fait.",fr,positive
+"Ce produit est horrible. Je suis très déçu de mon achat.",fr,negative
+"Le produit est correct. Rien d'exceptionnel mais ça va.",fr,neutral
+"Ich liebe dieses Produkt! Es ist wirklich großartig.",de,positive
+"Dieses Produkt ist schrecklich. Totale Geldverschwendung.",de,negative
+"Das Produkt ist in Ordnung. Nichts Besonderes aber funktional.",de,neutral
+"我非常喜欢这个产品！质量很好，超出了我的期望。",zh,positive
+"这个产品太糟糕了。完全是浪费钱。",zh,negative
+"这个产品还可以。没什么特别的但能用。",zh,neutral
+"Adoro questo prodotto! È fantastico e ben fatto.",it,positive
+"Questo prodotto è terribile. Non lo consiglio a nessuno.",it,negative
+"Il prodotto è accettabile. Niente di speciale ma funziona.",it,neutral
+"Eu amo este produto! É incrível e de ótima qualidade.",pt,positive
+"Este produto é horrível. Foi um desperdício de dinheiro.",pt,negative
+"O produto está bem. Nada de especial mas funciona.",pt,neutral
+"Мне очень нравится этот продукт! Он превосходный.",ru,positive
+"Этот продукт ужасен. Полная трата денег.",ru,negative
+"Продукт нормальный. Ничего особенного, но работает.",ru,neutral
+"この製品が大好きです！素晴らしい品質です。",ja,positive
+"この製品は最悪です。お金の無駄でした。",ja,negative
+"製品は普通です。特別ではありませんが機能します。",ja,neutral
+"أحب هذا المنتج كثيراً! إنه رائع وذو جودة عالية.",ar,positive
+"هذا المنتج فظيع. إنه مضيعة للمال تماماً.",ar,negative
+"المنتج مقبول. لا شيء مميز لكنه يعمل.",ar,neutral
