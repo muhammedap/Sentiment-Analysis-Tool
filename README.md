@@ -8,7 +8,6 @@ A comprehensive sentiment analysis tool that can analyze sentiment in user revie
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-FF4B4B.svg)](https://multilingual-sentiment-analysis.streamlit.app/)
 
-## 🚀 **[Try the Live Demo](https://multilingual-sentiment-analysis.streamlit.app/)**
 
 ## ✨ Features
 
@@ -29,7 +28,7 @@ A comprehensive sentiment analysis tool that can analyze sentiment in user revie
 
 ```bash
 # Clone the repository
-git clone https://github.com/midlaj-muhammed/Multilingual-Sentiment-Analysis-Tool.git
+git clone https://github.com/muhammedap/Sentiment-Analysis-Tool.git
 cd Multilingual-Sentiment-Analysis-Tool
 
 # Run installation script
@@ -47,7 +46,7 @@ python run_demo.py
 
 ```bash
 # Clone and setup
-git clone https://github.com/midlaj-muhammed/Multilingual-Sentiment-Analysis-Tool.git
+git clone https://github.com/muhammedap/Sentiment-Analysis-Tool.git
 cd Multilingual-Sentiment-Analysis-Tool
 
 # Create virtual environment
@@ -82,7 +81,6 @@ streamlit run app/frontend/streamlit_app.py
 # Open http://localhost:8501
 ```
 
-**🌐 Or try the live demo**: https://multilingual-sentiment-analysis.streamlit.app/
 
 ### API Server
 ```bash
@@ -240,12 +238,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌐 Links
 
-- 🚀 **Live Demo**: https://multilingual-sentiment-analysis.streamlit.app/
-- 📖 **Repository**: https://github.com/midlaj-muhammed/Multilingual-Sentiment-Analysis-Tool
+- 📖 **Repository**: https://github.com/muhammedap/Sentiment-Analysis-Tool.git
 - 📚 **Documentation**: [API Docs](docs/API_DOCUMENTATION.md) | [Usage Examples](docs/USAGE_EXAMPLES.md) | [Deployment Guide](docs/DEPLOYMENT.md)
 
 ## 📞 Support
 
 - 📧 Email: midlajmuhammed@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/midlaj-muhammed/Multilingual-Sentiment-Analysis-Tool/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/midlaj-muhammed/Multilingual-Sentiment-Analysis-Tool/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/muhammedap/Sentiment-Analysis-Tool.git/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/muhammedap/Sentiment-Analysis-Tool.git/discussions)
